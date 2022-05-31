@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gitlanding-test/static/css/main.a617e044.chunk.css",
+    "main.js": "/gitlanding-test/static/js/main.40b5083a.chunk.js",
+    "main.js.map": "/gitlanding-test/static/js/main.40b5083a.chunk.js.map",
+    "runtime-main.js": "/gitlanding-test/static/js/runtime-main.4c288bff.js",
+    "runtime-main.js.map": "/gitlanding-test/static/js/runtime-main.4c288bff.js.map",
+    "static/js/2.58709eee.chunk.js": "/gitlanding-test/static/js/2.58709eee.chunk.js",
+    "static/js/2.58709eee.chunk.js.map": "/gitlanding-test/static/js/2.58709eee.chunk.js.map",
+    "static/js/3.d9862237.chunk.js": "/gitlanding-test/static/js/3.d9862237.chunk.js",
+    "static/js/3.d9862237.chunk.js.map": "/gitlanding-test/static/js/3.d9862237.chunk.js.map",
+    "index.html": "/gitlanding-test/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/gitlanding-test/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.58709eee.chunk.js.LICENSE.txt": "/gitlanding-test/static/js/2.58709eee.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/gitlanding-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c288bff.js",
+    "static/js/2.58709eee.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.40b5083a.chunk.js"
+  ]
+}
